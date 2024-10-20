@@ -5,11 +5,12 @@ age = 25
 print("My age is :", age)
 
 name = 'Kamil'
+
 #  Python is a case sensitive  laguage mean capital and small letters are consider separate variables.
 age = 25
 height =5.5
 isMarried = False
-# isMarried2 = false
+# isMarried2 = falsef
 
 print("Name :", name)
 print("age :", age)
@@ -32,3 +33,16 @@ print(type(string))
 print(type(boolean))
 print(type(dataTypeNone))
 
+# SUm of two numbers
+
+num1 = 10
+num2 = 5
+sum = num1 + num2
+print("Sum of two numbers :", sum)
+
+# we can comment single-line by  hashtag and multi line comment by triple quotes
+
+'''this
+is 
+a 
+comment'''
